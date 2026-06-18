@@ -1,0 +1,8 @@
+.venv
+*.idea
+.*idea
+
+.venv/
+.idea/
+runnerup.py
+list comprehension.py
